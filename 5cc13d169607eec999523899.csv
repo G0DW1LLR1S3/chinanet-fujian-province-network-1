@@ -1,0 +1,20 @@
+Indicator type,Indicator,Description
+IPv4,139.59.14.215,phpMyAdmin attacker client IP
+IPv4,45.62.240.250,phpMyAdmin attacker client IP
+IPv4,65.181.123.56,phpMyAdmin attacker client IP
+URL,ftp://139.59.14.215/.pwlamea/botminer.php,URL injected into phpMyAdmin page
+URL,ftp://45.62.240.250/ff2.php,URL injected into phpMyAdmin page
+URL,ftp://65.181.123.56/ff2.php,URL injected into phpMyAdmin page
+URL,ftp://65.181.123.56/ff3.php,URL injected into phpMyAdmin page
+FileHash-MD5,5ca28c854aefd65490ec518dd5d72441,phpMyAdmin injected malware hash
+FileHash-SHA1,ede1b38647de230a6d8f8bec321b59c4988063ca,phpMyAdmin injected malware hash
+FileHash-SHA256,3352e214045eaeec5194190f7e204b9cdbfe597a327124175801673c3f7a9567,phpMyAdmin injected malware hash
+FileHash-MD5,e8d363d35d539beb494de829264ed356,phpMyAdmin injected malware hash
+FileHash-SHA1,a975a36fe3fbbdbef9f5388fb5dbe72ab1e111c9,phpMyAdmin injected malware hash
+FileHash-SHA256,07beafbc03cef3e5758297a5838bdacf2569880b93d40cf70c942f54293c3d08,phpMyAdmin injected malware hash
+FileHash-MD5,c273af2d100247d94ecd4cbfcc1de2dd,phpMyAdmin injected malware hash
+FileHash-SHA1,ea2b7ed4d6a3e05380cdbac3eee869ca36ac5d82,phpMyAdmin injected malware hash
+FileHash-SHA256,200139e2725a23d60fb012262b307ac4313f2519f990180210f23b40fb5d7fcb,phpMyAdmin injected malware hash
+IPv4,117.28.254.177,Possible IRC server for 5ca28c854aefd65490ec518dd5d72441
+IPv4,144.217.160.29,Possible IRC server for e8d363d35d539beb494de829264ed356
+IPv4,147.135.120.70,Possible IRC server for c273af2d100247d94ecd4cbfcc1de2dd
