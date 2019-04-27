@@ -87,10 +87,40 @@ E11 show the results of a port scan against the FTP Server we got port 22/open a
 E12 shows the HTTPS certifcate from the FTP Server.
 
 Something to just add below are the only ip adresses i can get closes the the ftp server during traceroute scans.
+
 - 219.65.110.190.static-bangalore.vsnl.net.in
+
 - 202.56.198.30
+
 - 182.79.217.230
+
 - 206.82.104.130 NYC-ISP-IGW-RTR-158.airtel.com
+
+FTP SERVER FILES
+
+Any file that starts with FTPserverdump were files i was able to get from their FTP Servers, they did not
+make their ftp servers private so anyone can go and grab the files from their FTP servers.
+
+In the files specially the bot.php is a file that exposes another IRC Server they use for
+another botnet that is hosted in Hong Kong they also use the same server as an FTP Server.
+
+In the file pmabotold-noperlupload.php they use a IRC Server 41.185.94.172 hosted in South Africa.
+
+Below are all the IP addresses to FTP Servers they used to host malware.
+
+- ftp://139.59.14.215/.pwlamea/
+
+- ftp://43.230.112.161/
+
+Below are all the IP addresses to IRC Servers:Port + Channel they used to host their botnet.
+
+- 43.230.112.161:25565 #traficant
+
+- 117.28.254.177:25565 #DauDinOzn
+
+- 41.185.94.172:1337 #DauDinOzn
+
+Proof about all of this are in the FTPserverdump files.
 
 THE CONCLUSION
 
