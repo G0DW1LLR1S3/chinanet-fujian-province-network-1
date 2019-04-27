@@ -81,6 +81,12 @@ E11 show the results of a port scan against the FTP Server we got port 22/open a
 
 E12 shows the HTTPS certifcate from the FTP Server.
 
+Something to just add below are the only ip adresses i can get closes the the ftp server during traceroute scans.
+- 219.65.110.190.static-bangalore.vsnl.net.in
+- 202.56.198.30
+- 182.79.217.230
+- 206.82.104.130 NYC-ISP-IGW-RTR-158.airtel.com
+
 THE CONCLUSION
 
 Well that's it guys, if you are wondering why i did this. I saw the IP Address country was china and i didn't belong to an ISP
